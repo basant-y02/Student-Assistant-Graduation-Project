@@ -1,0 +1,3 @@
+{
+  "Questions": "1. :=\n= if\nif =\n==\n\n2. To assign a default value to a variable if a condition is not met\nTo simplify conditional logic\nTo handle truthy and falsey values\nAll of the above\n\n3. Empty string\nNone\nNon-zero integer\nUser input\n\n4. Non-empty list\nFalse\nEmpty string\nUser input\n\n5. The variable name will be assigned the value 'N/A'.\nThe program will raise an error.\nThe variable name will be assigned the value ''.\nThe program will loop indefinitely.\n\n6. Conditional assignment syntax\nTernary operator\n\n7. It eliminates the need for explicit if blocks\n\n8. All of the above\n\n9. False\n10. False"
+}
