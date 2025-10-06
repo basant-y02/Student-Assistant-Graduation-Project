@@ -42,7 +42,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Transform your academic journey with Student Assistant – the ultimate tool to help you stay organized, prepared, and successful!
 
-For more details, visit the [GitHub repository](https://github.com/Beshoy-R/Student-Assistant-Graduation-Project).
+For more details, visit the [GitHub repository](https://github.com/basant-y02/Student-Assistant-Graduation-Project).
 
 ---
 
