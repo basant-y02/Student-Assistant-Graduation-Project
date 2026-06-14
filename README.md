@@ -17,7 +17,7 @@ You can watch a demo about how the project works! [Click Me](https://www.dropbox
 To get started with Student Assistant, clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/Beshoy-R/Student-Assistant-Graduation-Project.git
+git clone https://github.com/basant_y02/Student-Assistant-Graduation-Project.git
 cd Student-Assistant-Graduation-Project
 pip install -r requirements.txt
 ```
